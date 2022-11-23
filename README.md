@@ -1,7 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Chandan Dinakr Chaudhari</h1>
-
-img align="right" alt="Coding" width="400" src="https://stock.adobe.com/search?k=programmer+cartoon&asset_id=482710262"
+<h1 align="center">Hi, I'm Chandan Dinakr Chaudhari</h1>
 
 <h3 align="center">A passionate Data Scientist & Mechanical System Design Engineer</h3>
 
