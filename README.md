@@ -1,4 +1,4 @@
-# Descriptions Statistics :-
+# Project Descriptions  :-
 
 |Sr No.|Topic|External Link |
 |-|-|-|
